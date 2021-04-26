@@ -1,16 +1,16 @@
-### url-shortener
+# url-shortener
 
 Simple URL shortner service
 
 ## packages-used:
 
-# Dependencies:
+### Dependencies:
 
 1. express: Server framework.
 2. mongoose: Object Data Modeling.
 3. nanoid: TO generate unique alphanumeric value.
 
-# Dev Dependencies:
+### Dev Dependencies:
 
 1. typescript : For type checking.
 2. dotenv: To load environment variables.
